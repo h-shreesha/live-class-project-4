@@ -2,6 +2,10 @@
 
 By Shreesha
 
+Here's the Live Deployed Website of ![Project02Badge](https://img.shields.io/badge/Project-04-orange)
+
+## Project 04  [DEPLOYED LINK](https://project04-digital-marketing-page.netlify.app/)
+
 ![websiteSnap](./readmeImages/websiteSnap.png)
 
 # What did I learn in this project
